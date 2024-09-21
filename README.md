@@ -3,5 +3,5 @@ A script that provides historical data trades from any ticker, interval, start d
 
 I usually use this to generate datasets that i later use to backetets strategies
 
-Check it out below:
+Check it out:
 https://historical-crypto-data.streamlit.app/
